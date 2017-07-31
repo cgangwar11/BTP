@@ -1,3 +1,5 @@
+notes/private/*
+
 codes/private/*
 *.o
 *.out
