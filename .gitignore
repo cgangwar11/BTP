@@ -1,8 +1,15 @@
 notes/private/*
-
+papers/private/*
+resources/private/
 codes/private/*
+
 *.o
 *.out
 *.pyc
 scripts/*
+
+notes/private/
+papers/private/
+resources/private/
+codes/private/
 
