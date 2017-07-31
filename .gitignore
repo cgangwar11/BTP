@@ -1,0 +1,5 @@
+codes/private/*
+*.o
+*.out
+*.pyc
+
